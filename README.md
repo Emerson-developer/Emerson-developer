@@ -1,7 +1,7 @@
 ## Hello! I`m Emerson Jr 🖐️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sujeitoprogramador.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-junior/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emerson_zzz)
  
 ![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson&show_icons=true&theme=dracula&count_private=true)
 
